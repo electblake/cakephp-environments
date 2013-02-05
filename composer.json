@@ -1,6 +1,17 @@
 {
     "name": "electblake/environments",
     "type": "cakephp-plugin",
+    "description": "CakePHP Environments Library as a plugin",
+    "authors": [
+      {
+        "name": "OctoBear",
+        "email": "david@octobearllc.com"
+      },
+      {
+        "name": "electblake",
+        "email": "electblake@gmail.com"
+      }
+    ],
     "require": {
       "composer/installers": "*"
     }
