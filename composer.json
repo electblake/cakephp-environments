@@ -1,7 +1,6 @@
 {
-    "name": "electblake/cakephp-environments",
+    "name": "electblake/environments",
     "type": "cakephp-plugin",
-    "target-dir": "Environments",
     "require": {
       "composer/installers": "*"
     }
